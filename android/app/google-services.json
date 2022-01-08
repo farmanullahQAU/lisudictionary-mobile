@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730576557674",
+    "project_id": "lisu-dictionary",
+    "storage_bucket": "lisu-dictionary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730576557674:android:8f749dafd514eed6c55c13",
+        "android_client_info": {
+          "package_name": "com.example.mm_dictionary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730576557674-du1pepo1lqo2o20dbisdeovh5rlvih75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuYCeac7SATqvqSccAfOvUI7nHK1F_-EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730576557674-du1pepo1lqo2o20dbisdeovh5rlvih75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
